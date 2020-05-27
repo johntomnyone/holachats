@@ -4,6 +4,7 @@ body {
 	background-repeat: no-repeat;
 }
 
+
 #pill {
 	margin-top: 450px;
 	padding: 40px;
@@ -11,7 +12,7 @@ body {
 
 #title_row {
 	text-align: center;
-	margin: 20px;
+	margin: 10px 20px 20px 20px;
 }
 
 #title_row h1 {
@@ -27,3 +28,12 @@ body {
 	margin-top: 0px;
 	padding-top: 0px;
 }
+ 
+/* 
+	HolaCHATS Colors:
+	Gold: #FAA926; RGB(250, 169, 38)
+	Purple: #902E8C; RGB(144, 46, 140)
+	Black: #000;
+	White: #fff;
+
+*/
