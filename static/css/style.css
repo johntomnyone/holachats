@@ -2,6 +2,7 @@ body {
 	background-image: url("/static/img/bg.svg");
 	background-size: contain;
 	background-repeat: no-repeat;
+	font-family: 'DM Mono', monospace;
 }
 
 #pill {
