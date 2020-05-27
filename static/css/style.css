@@ -27,3 +27,8 @@ body {
 	margin-top: 0px;
 	padding-top: 0px;
 }
+
+.jumbotron {
+	padding: 40px !important;
+	color: gold !important;
+}
