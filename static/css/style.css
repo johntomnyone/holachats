@@ -1,5 +1,29 @@
 body {
 	background-image: url("/static/img/bg.svg");
-	background-size: cover;
+	background-size: contain;
 	background-repeat: no-repeat;
+}
+
+#pill {
+	margin-top: 450px;
+	padding: 40px;
+}
+
+#title_row {
+	text-align: center;
+	margin: 20px;
+}
+
+#title_row h1 {
+	font-size: 60px;
+	font-weight: bold;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+}
+
+#title_row h1 i {
+	font-size: 12px;
+	font-weight: normal;
+	margin-top: 0px;
+	padding-top: 0px;
 }
